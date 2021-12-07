@@ -16,7 +16,7 @@ if(idade >18){
 
 var listaDeParticipantes = ["lorena","maria","pedro"]
 
-if (listaDeParticipantes.length =< 100) {
+if (listaDeParticipantes.length >= 100) {
     console.log ("Nome inserido na lista")
     }else{
     console.log("Não temos mais vagas")
